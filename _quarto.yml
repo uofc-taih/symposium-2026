@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "2026 TAIH Annual Symposium"
+  site-url: "https://uofc-taih.github.io/symposium-2026/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - text: "Submit on OpenReview"
+        href: "[PENDING_OPENREVIEW_URL]" # Placeholder for tomorrow
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
