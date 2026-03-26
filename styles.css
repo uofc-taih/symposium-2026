@@ -1,1 +1,28 @@
 /* css styles */
+/* Center title alignments */
+.quarto-title {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+/* Speaker grid stylings */
+.grid {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+/* Make speaker images circular with a subtle shadow */
+.grid img {
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+    height: 150px;
+    width: 150px;
+}
+
+h2 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5rem;
+    margin-top: 2.5rem;
+}

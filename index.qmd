@@ -1,7 +1,46 @@
 ---
-title: "2026 TAIH Annual Symposium"
+title: "TAIH Symposium 2026"
+subtitle: "First Annual TAIH Symposium at the University of Calgary"
 ---
 
-This is a Quarto website.
+Welcome to the **TAIH Symposium 2026**, hosted by the **Transdisciplinary Artificial Intelligence Hub (TAIH)**. This inaugural event brings together researchers, practitioners, and industry leaders to discuss the latest advancements, transparent methodologies, and real-world applications in AI and connected research fields.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+For more information about TAIH, visit [our website](https://wpsites.ucalgary.ca/transdisciplinary-ai-hub/){target="_blank"}.
+
+**Date:** Summer 2026 [TBD]
+**Location:** University of Calgary, Alberta, Canada
+
+---
+
+## About the symposium
+Machine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases.
+
+---
+
+## Confirmed speakers
+We are actively confirming our keynote and invited speakers for 2026. If you are interested in speaking, please refer to our [Call for Speakers](cfs.qmd).
+
+::: {.grid}
+::: {.g-col-4}
+![](assets/speaker-placeholder.svg){width=150}
+:::
+::: {.g-col-4}
+![](assets/speaker-placeholder.svg){width=150}
+:::
+::: {.g-col-4}
+![](assets/speaker-placeholder.svg){width=150}
+:::
+:::
+
+---
+
+## Organizers
+
+* **Samira Ebrahimi Kahou**, Assistant Professor
+* **Steve Drew**, Assistant Professor
+* **Vincent Michalski**, PhD
+* **Ankur Garg**, PhD student
+* **Nils Kiele**, PhD student
+* **Niki Mehri**, MEng student
+
+**Questions?** Contact us at [transdisciplinaryaihub@gmail.com](mailto:transdisciplinaryaihub@gmail.com).

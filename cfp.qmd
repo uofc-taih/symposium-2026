@@ -1,0 +1,28 @@
+---
+title: "Call for Papers"
+---
+
+We invite submissions for the **TAIH Symposium 2026**. We welcome contributions from researchers and practitioners across academia and industry.
+
+## Important Dates
+
+* **Submission deadline:** [Date TBD]
+* **Author notification:** [Date TBD]
+* **Camera-ready deadline:** [Date TBD]
+
+## Topics of interest
+
+We welcome research on, but not limited to:
+
+* Explainability and interpretability
+* Fairness and bias mitigation
+* Trustworthy AI in healthcare
+* Robustness and security
+* Human-AI interaction
+* Ethical and societal implications of AI
+* AI in engineering and manufacturing
+* Case studies and real-world applications
+
+## Submission guidelines
+* Will be updated shortly.
+* All submissions will be peer-reviewed in a double-blind process.

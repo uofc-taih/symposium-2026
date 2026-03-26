@@ -1,23 +1,29 @@
 project:
-  type: website
-  output-dir: docs
+    type: website
+    output-dir: docs
 
 website:
-  title: "2026 TAIH Annual Symposium"
-  site-url: "https://uofc-taih.github.io/symposium-2026/"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-    right:
-      - text: "Submit on OpenReview"
-        href: "[PENDING_OPENREVIEW_URL]" # Placeholder for tomorrow
-
+    title: "TAIH Symposium 2026"
+    site-url: "https://uofc-taih.github.io/symposium-2026/"
+    description: "First TAIH Symposium at the University of Calgary"
+    navbar:
+        background: primary
+        left:
+            - text: "Schedule"
+              file: schedule.qmd
+            - text: "Call for Speakers"
+              file: cfs.qmd
+            - text: "Call for Papers"
+              file: cfp.qmd
+            - text: "Sponsors"
+              file: sponsors.qmd
+        right:
+            - text: "Submit on OpenReview"
+              # href: "[PENDING_OPENREVIEW_URL]" # TODO
+              # target: _blank
 
 format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    html:
+        theme: flatly
+        css: styles.css
+        toc: false

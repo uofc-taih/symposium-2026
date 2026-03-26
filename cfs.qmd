@@ -1,0 +1,37 @@
+---
+title: "Call for Speakers"
+---
+
+The **Transdisciplinary Artificial Intelligence Hub (TAIH)** is seeking dynamic and engaging speakers for the inaugural TAIH Symposium 2026.
+
+We are looking for researchers, industry professionals, and thought leaders who are pushing the boundaries of AI, transparent methodologies, and real-world applications.
+
+## Presentation formats
+
+We are currently accepting proposals for the following formats:
+
+* **Keynote presentations** (45 minutes + 15 minutes Q&A): Visionary talks on the future of AI and transdisciplinary research.
+* **Technical talks** (20 minutes + 10 minutes Q&A): Deep dives into specific methodologies, case studies, or recent publications.
+* **Lightning talks** (5-7 minutes): Quick, high-energy presentations highlighting early-stage research or novel ideas.
+* **Panelists:** We are also seeking experts to participate in our afternoon panel discussion bridging industry and academia.
+
+## Topics of interest
+
+While we are open to a wide range of AI-related topics, we are particularly interested in talks addressing:
+
+* Ethical AI and governance
+* AI in healthcare / energy / sustainability
+* Explainability and trustworthy models
+* Cross-disciplinary applications of machine learning
+
+## How to apply
+To submit a speaking proposal, please prepare a brief abstract (max. 300 words) and a short speaker bio.
+
+**[Link to Google Form / Submission Portal TBD]**
+
+Alternatively, you can email your proposal directly to our organizing committee at [transdisciplinaryaihub@gmail.com](mailto:transdisciplinaryaihub@gmail.com).
+
+## Important dates
+
+* **Speaker proposal deadline:** [Date TBD]
+* **Speaker notifications:** [Date TBD]

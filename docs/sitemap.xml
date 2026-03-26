@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://uofc-taih.github.io/symposium-2026/about.html</loc>
-    <lastmod>2026-03-23T17:42:07.168Z</lastmod>
+    <loc>https://uofc-taih.github.io/symposium-2026/index.html</loc>
+    <lastmod>2026-03-26T01:19:39.351Z</lastmod>
   </url>
   <url>
-    <loc>https://uofc-taih.github.io/symposium-2026/index.html</loc>
-    <lastmod>2026-03-23T17:42:07.168Z</lastmod>
+    <loc>https://uofc-taih.github.io/symposium-2026/cfs.html</loc>
+    <lastmod>2026-03-26T01:20:54.609Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uofc-taih.github.io/symposium-2026/cfp.html</loc>
+    <lastmod>2026-03-26T01:12:14.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uofc-taih.github.io/symposium-2026/sponsors.html</loc>
+    <lastmod>2026-03-26T01:15:49.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uofc-taih.github.io/symposium-2026/schedule.html</loc>
+    <lastmod>2026-03-26T00:54:58.825Z</lastmod>
   </url>
 </urlset>

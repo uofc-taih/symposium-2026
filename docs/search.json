@@ -1,16 +1,107 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "2026 TAIH Annual Symposium",
+    "title": "TAIH Symposium 2026",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to the TAIH Symposium 2026, hosted by the Transdisciplinary Artificial Intelligence Hub (TAIH). This inaugural event brings together researchers, practitioners, and industry leaders to discuss the latest advancements, transparent methodologies, and real-world applications in AI and connected research fields.\nFor more information about TAIH, visit our website.\nDate: Summer 2026 [TBD] Location: University of Calgary, Alberta, Canada"
+  },
+  {
+    "objectID": "index.html#about-the-symposium",
+    "href": "index.html#about-the-symposium",
+    "title": "TAIH Symposium 2026",
+    "section": "About the symposium",
+    "text": "About the symposium\nMachine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases."
+  },
+  {
+    "objectID": "index.html#confirmed-speakers",
+    "href": "index.html#confirmed-speakers",
+    "title": "TAIH Symposium 2026",
+    "section": "Confirmed speakers",
+    "text": "Confirmed speakers\nWe are actively confirming our keynote and invited speakers for 2026. If you are interested in speaking, please refer to our Call for Speakers."
+  },
+  {
+    "objectID": "index.html#organizers",
+    "href": "index.html#organizers",
+    "title": "TAIH Symposium 2026",
+    "section": "Organizers",
+    "text": "Organizers\n\nSamira Ebrahimi Kahou, Assistant Professor\nSteve Drew, Assistant Professor\nVincent Michalski, PhD\nAnkur Garg, PhD student\nNils Kiele, PhD student\nNiki Mehri, MEng student\n\nQuestions? Contact us at transdisciplinaryaihub@gmail.com."
+  },
+  {
+    "objectID": "cfs.html",
+    "href": "cfs.html",
+    "title": "Call for Speakers",
+    "section": "",
+    "text": "The Transdisciplinary Artificial Intelligence Hub (TAIH) is seeking dynamic and engaging speakers for the inaugural TAIH Symposium 2026.\nWe are looking for researchers, industry professionals, and thought leaders who are pushing the boundaries of AI, transparent methodologies, and real-world applications."
+  },
+  {
+    "objectID": "cfs.html#presentation-formats",
+    "href": "cfs.html#presentation-formats",
+    "title": "Call for Speakers",
+    "section": "Presentation formats",
+    "text": "Presentation formats\nWe are currently accepting proposals for the following formats:\n\nKeynote presentations (45 minutes + 15 minutes Q&A): Visionary talks on the future of AI and transdisciplinary research.\nTechnical talks (20 minutes + 10 minutes Q&A): Deep dives into specific methodologies, case studies, or recent publications.\nLightning talks (5-7 minutes): Quick, high-energy presentations highlighting early-stage research or novel ideas.\nPanelists: We are also seeking experts to participate in our afternoon panel discussion bridging industry and academia."
+  },
+  {
+    "objectID": "cfs.html#topics-of-interest",
+    "href": "cfs.html#topics-of-interest",
+    "title": "Call for Speakers",
+    "section": "Topics of interest",
+    "text": "Topics of interest\nWhile we are open to a wide range of AI-related topics, we are particularly interested in talks addressing:\n\nEthical AI and governance\nAI in healthcare / energy / sustainability\nExplainability and trustworthy models\nCross-disciplinary applications of machine learning"
+  },
+  {
+    "objectID": "cfs.html#how-to-apply",
+    "href": "cfs.html#how-to-apply",
+    "title": "Call for Speakers",
+    "section": "How to apply",
+    "text": "How to apply\nTo submit a speaking proposal, please prepare a brief abstract (max. 300 words) and a short speaker bio.\n[Link to Google Form / Submission Portal TBD]\nAlternatively, you can email your proposal directly to our organizing committee at transdisciplinaryaihub@gmail.com."
+  },
+  {
+    "objectID": "cfs.html#important-dates",
+    "href": "cfs.html#important-dates",
+    "title": "Call for Speakers",
+    "section": "Important dates",
+    "text": "Important dates\n\nSpeaker proposal deadline: [Date TBD]\nSpeaker notifications: [Date TBD]"
+  },
+  {
+    "objectID": "cfp.html",
+    "href": "cfp.html",
+    "title": "Call for Papers",
+    "section": "",
+    "text": "We invite submissions for the TAIH Symposium 2026. We welcome contributions from researchers and practitioners across academia and industry."
+  },
+  {
+    "objectID": "cfp.html#important-dates",
+    "href": "cfp.html#important-dates",
+    "title": "Call for Papers",
+    "section": "Important Dates",
+    "text": "Important Dates\n\nSubmission deadline: [Date TBD]\nAuthor notification: [Date TBD]\nCamera-ready deadline: [Date TBD]"
+  },
+  {
+    "objectID": "cfp.html#topics-of-interest",
+    "href": "cfp.html#topics-of-interest",
+    "title": "Call for Papers",
+    "section": "Topics of interest",
+    "text": "Topics of interest\nWe welcome research on, but not limited to:\n\nExplainability and interpretability\nFairness and bias mitigation\nTrustworthy AI in healthcare\nRobustness and security\nHuman-AI interaction\nEthical and societal implications of AI\nAI in engineering and manufacturing\nCase studies and real-world applications"
+  },
+  {
+    "objectID": "cfp.html#submission-guidelines",
+    "href": "cfp.html#submission-guidelines",
+    "title": "Call for Papers",
+    "section": "Submission guidelines",
+    "text": "Submission guidelines\n\nWill be updated shortly.\nAll submissions will be peer-reviewed in a double-blind process."
+  },
+  {
+    "objectID": "sponsors.html",
+    "href": "sponsors.html",
+    "title": "Sponsorship Opportunities",
+    "section": "",
+    "text": "We are actively seeking academic and corporate partners for the TAIH Symposium 2026. Sponsoring our event provides an excellent opportunity to showcase your organization to leading researchers and top-tier students at the University of Calgary.\n\nWhy sponsor?\n\nVisibility: Gain exposure among leading AI and technology practitioners.\nRecruitment: Network directly with top graduate students and postdocs.\nImpact: Support the growth of our transdisciplinary AI academic community.\n\n\n\nSponsorship perks\n\nLogo placement on the website.\nExplicit mention in opening and closing remarks.\n\nIf your organization is interested in sponsoring the symposium, please contact us at transdisciplinaryaihub@gmail.com."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Symposium Schedule",
+    "section": "",
+    "text": "The schedule will be updated shortly."
   }
 ]
