@@ -10,19 +10,20 @@ We invite submissions for the **TAIH Symposium 2026**. We welcome contributions 
 * **Author notification:** [Date TBD]
 * **Camera-ready deadline:** [Date TBD]
 
-## Topics of interest
+## Topics of Interest
 
-We welcome research on, but not limited to:
+We welcome a broad spectrum of research on transdisciplinary efforts in development and use of AI. Examples are:
 
-* Explainability and interpretability
-* Fairness and bias mitigation
-* Trustworthy AI in healthcare
-* Robustness and security
+* AI in healthcare
 * Human-AI interaction
-* Ethical and societal implications of AI
-* AI in engineering and manufacturing
+* AI in critical infrastructure & energy
 * Case studies and real-world applications
+* Robustness of AI systems
+* Fairness in AI and bias mitigation
+* Explainability and interpretability
+* Ethical and societal implications of AI
+* etc.
 
-## Submission guidelines
+## Submission Guidelines
 * Will be updated shortly.
 * All submissions will be peer-reviewed in a double-blind process.

@@ -4,14 +4,22 @@ title: "Sponsorship Opportunities"
 
 We are actively seeking academic and corporate partners for the TAIH Symposium 2026. Sponsoring our event provides an excellent opportunity to showcase your organization to leading researchers and top-tier students at the University of Calgary.
 
-### Why sponsor?
+### Why Sponsor?
 * **Visibility:** Gain exposure among leading AI and technology practitioners.
 * **Recruitment:** Network directly with top graduate students and postdocs.
 * **Impact:** Support the growth of our transdisciplinary AI academic community.
 
-### Sponsorship perks
+### Sponsorship Tiers & Benefits
 
-* Logo placement on the website.
-* Explicit mention in opening and closing remarks.
+| Benefit | **Diamond** | **Gold** |
+|:---|:---:|:---:|
+| Full symposium registrations | Two | One |
+| Branded table at the symposium | ✓ | |
+| Company promotional brief video at the opening session acknowledgement | ✓ | |
+| Company logo placement on event website & included in "Thank you to our sponsors" email  | ✓ | ✓ |
+| **Rate** | **$5,000 CAD** | **$2,000 CAD** |
+: {tbl-colwidths="[70,15,15]"}
+
+<br>
 
 If your organization is interested in sponsoring the symposium, please contact us at [transdisciplinaryaihub@gmail.com](mailto:transdisciplinaryaihub@gmail.com).

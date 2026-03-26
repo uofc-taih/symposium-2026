@@ -12,12 +12,12 @@ For more information about TAIH, visit [our website](https://wpsites.ucalgary.ca
 
 ---
 
-## About the symposium
+## About the Symposium
 Machine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases.
 
 ---
 
-## Confirmed speakers
+## Confirmed Speakers
 The symposium includes a number of talks by invited speakers. Details will be announced soon.
 
 ::: {.grid}
@@ -37,6 +37,7 @@ The symposium includes a number of talks by invited speakers. Details will be an
 ## Organizers
 
 * **Samira Ebrahimi Kahou**, Associate Professor
+* **Mostafa Farrokhabadi**, Assistant Professor
 * **Steve Drew**, Assistant Professor
 * **Vincent Michalski**, PhD
 * **Ankur Garg**, PhD student
