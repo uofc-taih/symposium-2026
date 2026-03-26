@@ -18,7 +18,7 @@ Machine learning and artificial intelligence are increasingly deployed in high-s
 ---
 
 ## Confirmed speakers
-We are actively confirming our keynote and invited speakers for 2026. If you are interested in speaking, please refer to our [Call for Speakers](cfs.qmd).
+The symposium includes a number of talks by invited speakers. Details will be announced soon.
 
 ::: {.grid}
 ::: {.g-col-4}

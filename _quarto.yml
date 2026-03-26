@@ -11,8 +11,6 @@ website:
         left:
             - text: "Schedule"
               file: schedule.qmd
-            - text: "Call for Speakers"
-              file: cfs.qmd
             - text: "Call for Papers"
               file: cfp.qmd
             - text: "Sponsors"

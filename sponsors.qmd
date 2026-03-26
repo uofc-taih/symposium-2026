@@ -14,4 +14,4 @@ We are actively seeking academic and corporate partners for the TAIH Symposium 2
 * Logo placement on the website.
 * Explicit mention in opening and closing remarks.
 
-If your organization is interested in sponsoring the symposium, please contact us at `transdisciplinaryaihub@gmail.com`.
+If your organization is interested in sponsoring the symposium, please contact us at [transdisciplinaryaihub@gmail.com](mailto:transdisciplinaryaihub@gmail.com).
