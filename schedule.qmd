@@ -2,4 +2,22 @@
 title: "Symposium Schedule"
 ---
 
-The schedule will be updated shortly.
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### <i class="bi bi-calendar3"></i> When
+**Tuesday, May 26** | 9:00 AM (Start)  
+**Wednesday, May 27** | 3:30 PM (End)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### <i class="bi bi-geo-alt"></i> Where
+**University of Calgary** Main Campus, Calgary, AB  
+*In-Person Event*
+:::
+
+:::
+
+::: {.text-center}
+The detailed schedule will follow shortly.
+:::
