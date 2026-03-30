@@ -14,15 +14,12 @@ We invite submissions for the **TAIH Symposium 2026**. We welcome contributions 
 
 We welcome a broad spectrum of research on transdisciplinary efforts in development and use of AI. Examples are:
 
-* AI in healthcare
-* Human-AI interaction
-* AI in critical infrastructure & energy
-* Case studies and real-world applications
-* Robustness of AI systems
-* Fairness in AI and bias mitigation
-* Explainability and interpretability
-* Ethical and societal implications of AI
-* etc.
+* AI in healthcare and medicine
+* AI in critical infrastructure and energy
+* Human-AI interaction and collaboration
+* Ethical, governance, and societal implications of AI
+* Transdisciplinary case studies and real-world applications
+* Trustworthy ML foundations (explainability, interpretability, fairness, robustness, etc.)
 
 ## Submission Guidelines
 * Will be updated shortly.

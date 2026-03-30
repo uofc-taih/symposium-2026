@@ -17,8 +17,8 @@ website:
               file: sponsors.qmd
         right:
             - text: "Submit on OpenReview"
-              # href: "[PENDING_OPENREVIEW_URL]" # TODO
-              # target: _blank
+              href: "https://openreview.net/group?id=TAIH/2026/Symposium"
+              target: _blank
 
 format:
     html:
