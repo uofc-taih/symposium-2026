@@ -28,7 +28,8 @@ The symposium includes a number of talks by invited speakers. More details will 
 ::: {.g-col-12 .g-col-md-4 .text-center}
 ![](assets/Holodinsky.jpeg){.speaker-img width=150}
 
-**Jessalyn Holodinsky, PhD** Assistant Professor  
+**Jessalyn Holodinsky, PhD** \
+Assistant Professor  
 University of Calgary
 
 <details>
@@ -40,9 +41,18 @@ Dr. Jessalyn Holodinsky is an Assistant Professor of Data Science in the Departm
 :::
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](assets/speaker-placeholder.svg){.speaker-img width=150}
+![](assets/Leung.jpeg){.speaker-img width=150}
 
-*coming soon*
+**Henry Leung, PhD** \
+Professor  
+University of Calgary
+
+<details>
+<summary style="cursor: pointer; color: #18bc9c; font-weight: bold; margin-top: 10px;">View Bio</summary>
+<div class="text-start small" style="margin-top: 10px; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
+Dr. Henry Leung is a Professor in the Department of Electrical and Software Engineering. His research focuses on machine learning, data analytics, information fusion, robotics, sensor networks and IoT, and signal and image processing.
+</div>
+</details>
 :::
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
