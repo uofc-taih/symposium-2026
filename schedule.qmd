@@ -6,8 +6,7 @@ title: "Symposium Schedule"
 
 ::: {.g-col-12 .g-col-md-6}
 ### <i class="bi bi-calendar3"></i> When
-**Tuesday, May 26** | 9:00 AM (Start)  
-**Wednesday, May 27** | 3:30 PM (End)
+**Tuesday, May 26, 2026** 9:00 AM – 5:00 PM
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -18,6 +17,29 @@ title: "Symposium Schedule"
 
 :::
 
+::: {.callout-note appearance="simple"}
+## Preliminary Schedule
+Please note that the following program is subject to change as speakers and sessions are finalized.
+:::
+
+| Time | Session |
+|:--- |:--- |
+| 09:00 | **Welcome & Opening Remarks** |
+| 09:30 | **Invited Talk #1** (30 min + 15 min Q&A) |
+| 10:15 | **Invited Talk #2** (30 min + 15 min Q&A) |
+| 11:00 | **Coffee Break** |
+| 11:15 | **Invited Talk #3** (30 min + 15 min Q&A) |
+| 12:00 | **Lunch & Networking** (Provided for all attendees) |
+| 13:15 | **Best Poster Highlights** (3 x 15 min rapid-fire talks) |
+| 14:00 | **Panel Discussion:** The Future of Transdisciplinary AI |
+| 14:45 | **Poster Session & Afternoon Coffee** |
+| 16:30 | **Awards & Closing Remarks** |
+| 17:00 | **Symposium Ends** |
+
+: {tbl-colwidths="[20,80]"}
+
+<br>
+
 ::: {.text-center}
-The detailed schedule will follow shortly.
+Looking for the Call for Papers? [Click here to submit.](cfp.qmd)
 :::

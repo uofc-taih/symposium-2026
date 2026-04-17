@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TAIH Symposium 2026",
-    "section": "",
-    "text": "Welcome to the TAIH Symposium 2026, hosted by the Transdisciplinary Artificial Intelligence Hub (TAIH). This inaugural event brings together researchers, practitioners, and industry leaders to discuss the latest advancements, transparent methodologies, and real-world applications in AI and connected research fields.\nFor more information about TAIH, visit our website.\nDate: May 26 & 27, 2026\nLocation: University of Calgary, Alberta, Canada"
-  },
-  {
     "objectID": "index.html#about-the-symposium",
     "href": "index.html#about-the-symposium",
     "title": "TAIH Symposium 2026",
@@ -53,14 +46,14 @@
     "href": "cfp.html",
     "title": "Call for Papers",
     "section": "",
-    "text": "We invite submissions for the TAIH Symposium 2026. We welcome contributions from researchers and practitioners across academia and industry."
+    "text": "We invite submissions for the TAIH Symposium 2026. We welcome contributions from researchers and practitioners across academia and industry who are exploring the intersection of artificial intelligence and domain-specific challenges."
   },
   {
     "objectID": "cfp.html#important-dates",
     "href": "cfp.html#important-dates",
     "title": "Call for Papers",
     "section": "Important Dates",
-    "text": "Important Dates\n\nSubmission deadline: May 5, 11:59 MDT\nAuthor notification: May 17, 11:59 MDT\nCamera-ready deadline: May 22, 11:59 MDT"
+    "text": "Important Dates\n\nSubmission deadline: May 5, 2026 11:59 PM MDT\nAuthor notification: May 17, 2026, 11:59 PM MDT\nCamera-ready deadline: May 22, 2026, 11:59 PM MDT"
   },
   {
     "objectID": "cfp.html#topics-of-interest",
@@ -74,13 +67,13 @@
     "href": "cfp.html#submission-guidelines",
     "title": "Call for Papers",
     "section": "Submission Guidelines",
-    "text": "Submission Guidelines\n\nWill be updated shortly.\nAll submissions will be peer-reviewed in a double-blind process."
+    "text": "Submission Guidelines\nWe use a flexible, one-page format to make joining the conversation easy for all researchers.\n\nWhat to Submit\n\nLength: 1 page, plus references.\nFormat: Flexible. You may submit an extended abstract, preliminary results, or a summary of recently published or previously presented work.\nTemplate: Standard single-column or double-column academic format (e.g., IEEE, ACM, or standard LaTeX article). PDF format is required.\nReview Process: All submissions will be peer-reviewed in a double-blind process. Please ensure your submitted PDF does not contain author names or affiliations.\n\n\n\nPresentation Format\nUpon acceptance, authors will be invited to present their research at the symposium’s Poster Session.\n\nThe physical poster should reflect the core concepts of the submitted abstract, but authors are encouraged to include any additional details, figures, and updates.\nTop Submissions: The authors of the top three accepted papers will be invited to present their work during the main plenary session, in addition to their poster.\n\n\nSubmit on OpenReview"
   },
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Symposium Schedule",
     "section": "",
-    "text": "When\nTuesday, May 26 | 9:00 AM (Start)\nWednesday, May 27 | 3:30 PM (End)\n\n\n Where\nUniversity of Calgary Main Campus, Calgary, AB\nIn-Person Event\n\n\n\nThe detailed schedule will follow shortly."
+    "text": "When\nTuesday, May 26, 2026 9:00 AM – 5:00 PM\n\n\n Where\nUniversity of Calgary Main Campus, Calgary, AB\nIn-Person Event\n\n\n\n\n\n\n\n\nNotePreliminary Schedule\n\n\n\nPlease note that the following program is subject to change as speakers and sessions are finalized.\n\n\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00\nWelcome & Opening Remarks\n\n\n09:30\nInvited Talk #1 (30 min + 15 min Q&A)\n\n\n10:15\nInvited Talk #2 (30 min + 15 min Q&A)\n\n\n11:00\nCoffee Break\n\n\n11:15\nInvited Talk #3 (30 min + 15 min Q&A)\n\n\n12:00\nLunch & Networking (Provided for all attendees)\n\n\n13:15\nBest Poster Highlights (3 x 15 min rapid-fire talks)\n\n\n14:00\nPanel Discussion: The Future of Transdisciplinary AI\n\n\n14:45\nPoster Session & Afternoon Coffee\n\n\n16:30\nAwards & Closing Remarks\n\n\n17:00\nSymposium Ends\n\n\n\n\n\nLooking for the Call for Papers? Click here to submit."
   }
 ]

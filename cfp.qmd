@@ -2,13 +2,14 @@
 title: "Call for Papers"
 ---
 
-We invite submissions for the **TAIH Symposium 2026**. We welcome contributions from researchers and practitioners across academia and industry.
+We invite submissions for the **TAIH Symposium 2026**. We welcome contributions from researchers and practitioners across academia and industry who are exploring the intersection of artificial intelligence and domain-specific challenges.
 
 ## Important Dates
 
-* **Submission deadline:** May 5, 11:59 MDT
-* **Author notification:** May 17, 11:59 MDT
-* **Camera-ready deadline:** May 22, 11:59 MDT
+* **Submission deadline:** May 5, 2026 11:59 PM MDT
+* **Author notification:** May 17, 2026, 11:59 PM MDT
+* **Camera-ready deadline:** May 22, 2026, 11:59 PM MDT
+
 
 ## Topics of Interest
 
@@ -22,5 +23,22 @@ We welcome a broad spectrum of research on transdisciplinary efforts in developm
 * Trustworthy ML foundations (explainability, interpretability, fairness, robustness, etc.)
 
 ## Submission Guidelines
-* Will be updated shortly.
-* All submissions will be peer-reviewed in a double-blind process.
+
+We use a flexible, one-page format to make joining the conversation easy for all researchers.
+
+### What to Submit
+
+* **Length:** 1 page, plus references.
+* **Format:** Flexible. You may submit an extended abstract, preliminary results, or a summary of recently published or previously presented work.
+* **Template:** Standard single-column or double-column academic format (e.g., IEEE, ACM, or standard LaTeX article). PDF format is required.
+* **Review Process:** All submissions will be peer-reviewed in a **double-blind process**. Please ensure your submitted PDF does not contain author names or affiliations.
+
+### Presentation Format
+Upon acceptance, authors will be invited to present their research at the symposium's **Poster Session**.
+
+* The physical poster should reflect the core concepts of the submitted abstract, but authors are encouraged to include any additional details, figures, and updates.
+* **Top Submissions:** The authors of the top three accepted papers will be invited to present their work during the main plenary session, in addition to their poster.
+
+::: {.text-center style="margin-top: 40px;"}
+[Submit on OpenReview](https://openreview.net/group?id=TAIH/2026/Symposium){.btn .btn-success .btn-lg role="button" target="_blank"}
+:::

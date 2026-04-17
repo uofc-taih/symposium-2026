@@ -1,4 +1,3 @@
-/* css styles */
 /* Center title alignments */
 .quarto-title {
     text-align: center;
@@ -25,4 +24,115 @@ h2 {
     border-bottom: 2px solid #eee;
     padding-bottom: 0.5rem;
     margin-top: 2.5rem;
+}
+
+body,
+html {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#quarto-content,
+#quarto-content.page-columns,
+main.content {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+.column-screen {
+    margin-left: calc(50% - 50vw) !important;
+    margin-right: calc(50% - 50vw) !important;
+    width: 100vw !important;
+    max-width: none !important;
+}
+
+.hero-banner {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("assets/uofc-campus.webp") no-repeat center center;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.hero-text h1 {
+    font-size: 4rem;
+    font-weight: 800;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 0;
+}
+
+.hero-text h3 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    opacity: 0.9;
+    margin-bottom: 1.5rem;
+}
+
+#countdown {
+    font-family: monospace;
+    font-size: 1.2rem;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px 20px;
+    border-radius: 50px;
+    display: inline-block;
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Center the body text column */
+.column-body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 15px;
+}
+
+/* The official UCalgary Red is #d6001c, see here: https://ucalgary.ca/brand/standards-and-guidelines/colours */
+.btn-success {
+    background-color: #d6001c !important;
+    border-color: #d6001c !important;
+    color: white !important;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-success:hover {
+    background-color: #ba1e2b !important; /* Slightly darker red on hover */
+    border-color: #ba1e2b !important;
+}
+
+summary {
+    color: #d6001c !important;
+}
+
+a {
+    color: #d6001c;
+    text-decoration: none; /* Removes the underline until hovered */
+    transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+    color: #ba1e2b; /* Darker red on hover */
+    text-decoration: underline;
+}
+
+/* Ensure the navbar links stay white/gray and don't turn red */
+.navbar a {
+    color: inherit;
+}
+
+/* Changes the hover color for navigation links and the site title */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus,
+.navbar-brand:hover {
+    color: #ba1e2b !important; /* UCalgary hover red */
+}
+
+/* Changes the color of the text for whatever page you are currently on */
+.navbar-nav .nav-item > .nav-link.active,
+.navbar-nav .nav-link.active {
+    color: #d6001c !important; /* UCalgary base red */
 }

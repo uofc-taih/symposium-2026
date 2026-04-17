@@ -1,20 +1,36 @@
 ---
-title: "TAIH Symposium 2026"
-subtitle: "First Annual TAIH Symposium at the University of Calgary"
+title: ""
+page-layout: custom
 ---
+
+::: {.column-screen}
+::: {.hero-banner}
+::: {.hero-text}
+# TAIH Symposium 2026
+### First Annual TAIH Symposium at the University of Calgary
+
+::: {#countdown}
+:::
+
+<br>
+
+[Free Registration](https://www.eventbrite.ca/e/2026-transdisciplinary-ai-hub-taih-annual-symposium-tickets-1986037603936){.btn .btn-success .btn-lg target="_blank" role="button"}
+:::
+:::
+:::
+
+::: {.column-body}
+
+<br>
 
 Welcome to the **TAIH Symposium 2026**, hosted by the **Transdisciplinary Artificial Intelligence Hub (TAIH)**. This inaugural event brings together researchers, practitioners, and industry leaders to discuss the latest advancements, transparent methodologies, and real-world applications in AI and connected research fields.
 
 For more information about TAIH, visit [our website](https://wpsites.ucalgary.ca/transdisciplinary-ai-hub/){target="_blank"}.
 
-**Date:** May 26 & 27, 2026  
+**Date:** May 26, 2026 \
 **Location:** University of Calgary, Alberta, Canada
 
-::: {.text-center}
-<br>
-[Free Registration](https://www.eventbrite.ca/e/2026-transdisciplinary-ai-hub-taih-annual-symposium-tickets-1986037603936){.btn .btn-success .btn-lg target="_blank" role="button"}
-<br>
-:::
+---
 
 ## About the Symposium
 Machine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases.
@@ -74,3 +90,26 @@ Dr. Henry Leung is a Professor in the Department of Electrical and Software Engi
 * **Niki Mehri**, MEng student
 
 **Questions?** Contact us at [transdisciplinaryaihub@gmail.com](mailto:transdisciplinaryaihub@gmail.com).
+
+:::
+
+<script>
+// Countdown Timer Logic
+const targetDate = new Date("May 26, 2026 09:00:00").getTime();
+
+const interval = setInterval(function() {
+  const now = new Date().getTime();
+  const distance = targetDate - now;
+
+  const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+
+  document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m until the Symposium";
+
+  if (distance < 0) {
+    clearInterval(interval);
+    document.getElementById("countdown").innerHTML = "The Symposium has started!";
+  }
+}, 1000);
+</script>

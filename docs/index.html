@@ -116,46 +116,42 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
 <!-- main -->
-<main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">TAIH Symposium 2026</h1>
-<p class="subtitle lead">First Annual TAIH Symposium at the University of Calgary</p>
+
+
+
+<div class="column-screen">
+<div class="hero-banner">
+<section id="taih-symposium-2026" class="level1 hero-text">
+<h1>TAIH Symposium 2026</h1>
+<section id="first-annual-taih-symposium-at-the-university-of-calgary" class="level3">
+<h3 data-anchor-id="first-annual-taih-symposium-at-the-university-of-calgary">First Annual TAIH Symposium at the University of Calgary</h3>
+<div id="countdown">
+
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
+<p><br></p>
+<p><a href="https://www.eventbrite.ca/e/2026-transdisciplinary-ai-hub-taih-annual-symposium-tickets-1986037603936" class="btn btn-success btn-lg" target="_blank" role="button">Free Registration</a></p>
+</section>
+</section>
+</div>
+</div>
+<div class="column-body">
+<p><br></p>
 <p>Welcome to the <strong>TAIH Symposium 2026</strong>, hosted by the <strong>Transdisciplinary Artificial Intelligence Hub (TAIH)</strong>. This inaugural event brings together researchers, practitioners, and industry leaders to discuss the latest advancements, transparent methodologies, and real-world applications in AI and connected research fields.</p>
 <p>For more information about TAIH, visit <a href="https://wpsites.ucalgary.ca/transdisciplinary-ai-hub/" target="_blank">our website</a>.</p>
-<p><strong>Date:</strong> May 26 &amp; 27, 2026<br>
+<p><strong>Date:</strong> May 26, 2026<br>
 <strong>Location:</strong> University of Calgary, Alberta, Canada</p>
-<div class="text-center">
-<p><br> <a href="https://www.eventbrite.ca/e/2026-transdisciplinary-ai-hub-taih-annual-symposium-tickets-1986037603936" class="btn btn-success btn-lg" target="_blank" role="button">Free Registration</a> <br></p>
-</div>
+<hr>
 <section id="about-the-symposium" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-symposium">About the Symposium</h2>
+<h2 data-anchor-id="about-the-symposium">About the Symposium</h2>
 <p>Machine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases.</p>
 </section>
 <section id="confirmed-speakers" class="level2">
-<h2 class="anchored" data-anchor-id="confirmed-speakers">Confirmed Speakers</h2>
+<h2 data-anchor-id="confirmed-speakers">Confirmed Speakers</h2>
 <p>The symposium includes a number of talks by invited speakers. More details will follow soon.</p>
 <div class="grid">
 <div class="g-col-12 g-col-md-4 text-center">
@@ -193,7 +189,7 @@ View Bio
 </div>
 </section>
 <section id="organizers" class="level2">
-<h2 class="anchored" data-anchor-id="organizers">Organizers</h2>
+<h2 data-anchor-id="organizers">Organizers</h2>
 <ul>
 <li><strong>Samira Ebrahimi Kahou</strong>, Associate Professor</li>
 <li><strong>Steve Drew</strong>, Assistant Professor</li>
@@ -204,11 +200,32 @@ View Bio
 <li><strong>Niki Mehri</strong>, MEng student</li>
 </ul>
 <p><strong>Questions?</strong> Contact us at <a href="mailto:transdisciplinaryaihub@gmail.com">transdisciplinaryaihub@gmail.com</a>.</p>
-
-
 </section>
+</div>
+<script>
+// Countdown Timer Logic
+const targetDate = new Date("May 26, 2026 09:00:00").getTime();
 
-</main> <!-- /main -->
+const interval = setInterval(function() {
+  const now = new Date().getTime();
+  const distance = targetDate - now;
+
+  const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+
+  document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m until the Symposium";
+
+  if (distance < 0) {
+    clearInterval(interval);
+    document.getElementById("countdown").innerHTML = "The Symposium has started!";
+  }
+}, 1000);
+</script>
+
+
+
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
