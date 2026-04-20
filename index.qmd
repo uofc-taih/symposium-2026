@@ -84,10 +84,11 @@ Dr. Henry Leung is a Professor in the Department of Electrical and Software Engi
 * **Samira Ebrahimi Kahou**, Associate Professor
 * **Steve Drew**, Assistant Professor
 * **Mostafa Farrokhabadi**, Assistant Professor
-* **Vincent Michalski**, PhD
-* **Ankur Garg**, PhD student
-* **Nils Kiele**, PhD student
-* **Niki Mehri**, MEng student
+* **Vincent Michalski**, Postdoctoral Researcher
+* **Ankur Garg**, PhD Student
+* **Jialin Yang**, PhD Student
+* **Nils Kiele**, PhD Student
+* **Niki Mehri**, MEng Student
 
 **Questions?** Contact us at [transdisciplinaryaihub@gmail.com](mailto:transdisciplinaryaihub@gmail.com).
 
