@@ -11,8 +11,10 @@ title: "Symposium Schedule"
 
 ::: {.g-col-12 .g-col-md-6}
 ### <i class="bi bi-geo-alt"></i> Where
-**University of Calgary** Main Campus, Calgary, AB  
-*In-Person Event*
+**Science Theatres, Room 148 (ST 148)**\
+University of Calgary Main Campus
+
+[<i class="bi bi-map"></i> View on Google Maps](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){.btn .btn-success .btn-sm target="_blank" role="button"}
 :::
 
 :::
