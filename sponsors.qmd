@@ -6,10 +6,18 @@ The **Transdisciplinary Artificial Intelligence Hub (TAIH)** is proud to partner
 
 ## Current Sponsors
 
-::: {.text-center style="margin-top: 30px; margin-bottom: 50px;"}
-[![](assets/schulich-momentum.jpg){width="100%" style="max-width: 900px; filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.1));"}](https://schulich.ucalgary.ca/)
+::: {.grid style="margin-top: 40px; margin-bottom: 60px; align-items: start;"}
 
-**Schulich Momentum Funds** *Founding Partner*
+::: {.g-col-12 .g-col-md-8 .text-center}
+<span style="text-transform: uppercase; font-size: 0.9rem; color: #666; font-weight: bold; letter-spacing: 1px;">Founding Partner</span><br><br>
+[![](assets/schulich-momentum.jpg){style="border-radius: 0 !important; box-shadow: none !important; object-fit: contain !important; width: 100% !important; max-width: 500px !important; height: auto !important;"}](https://schulich.ucalgary.ca/)
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+<span style="text-transform: uppercase; font-size: 0.9rem; color: #666; font-weight: bold; letter-spacing: 1px;">Prize Sponsor</span><br><br>
+[![](assets/gc-logo.png){style="border-radius: 0 !important; box-shadow: none !important; object-fit: contain !important; width: 100% !important; max-width: 250px !important; height: auto !important;"}](https://grad.ucalgary.ca/graduate-college)
+:::
+
 :::
 
 ## Partnering with TAIH
@@ -36,5 +44,5 @@ We are actively seeking academic and corporate partners for the TAIH Symposium 2
 ::: {.text-center}
 If your organization is interested in sponsoring the symposium, please contact us for more information.
 
-[Contact Organizing Committee](mailto:transdisciplinaryaihub@gmail.com){.btn .btn-primary .btn-lg role="button"}
+[Contact Organizing Committee](mailto:transdisciplinaryaihub@gmail.com){.btn .btn-success .btn-lg role="button"}
 :::
