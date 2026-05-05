@@ -78,6 +78,26 @@ Dr. Henry Leung is a Professor in the Department of Electrical and Software Engi
 
 :::
 
+## Opening Remarks
+
+::: {.grid .justify-content-md-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](assets/Kahou.jpeg){.speaker-img width=160}
+
+**Samira Ebrahimi Kahou, PhD** \
+Director of TAIH
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](assets/Godley.jpeg){.speaker-img width=160}
+
+**Jenny Godley, PhD** \
+Head of the Graduate College
+:::
+
+:::
+
 ## Organizers
 
 * **Samira Ebrahimi Kahou**, Associate Professor

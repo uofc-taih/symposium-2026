@@ -26,7 +26,8 @@ Please note that the following program is subject to change as speakers and sess
 
 | Time | Session |
 |:--- |:--- |
-| 09:00 | **Welcome & Opening Remarks** |
+| 09:00 | **Welcome & Opening Remarks**\
+Dr. Samira Kahou (TAIH Director) and Dr. Jenny Godley (Head of Graduate College) |
 | 09:30 | **Invited Talk #1** (30 min + 15 min Q&A) |
 | 10:15 | **Invited Talk #2** (30 min + 15 min Q&A) |
 | 11:00 | **Coffee Break** |
