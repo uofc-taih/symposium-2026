@@ -35,10 +35,10 @@ We use a flexible, one-page format to make joining the conversation easy for all
 * **Review Process:** All submissions will be peer-reviewed in a **double-blind process**. Please ensure your submitted PDF does not contain author names or affiliations.
 
 ### Presentation Format
-Upon acceptance, authors will be invited to present their research at the symposium's **Poster Session**.
+Upon acceptance, authors will be invited to present their research at the symposium.
 
-* The physical poster should reflect the core concepts of the submitted abstract, but authors are encouraged to include any additional details, figures, and updates.
-* **Top Submissions:** The authors of the top three accepted papers will be invited to present their work during the main plenary session, in addition to their poster.
+* We will have lightning talks for each accepted works (5-15min, depending on the number of accepted submissions). Participants with accepted work are asked to prepare presentation slides to reflect the core concepts of the submitted abstract---authors are encouraged to include any additional details, figures, and updates from the abstract submission.
+* **Top Submissions:** The top three authors based on the peer review will receive rewards, sponsored by the Graduate College.
 
 ::: {.text-center style="margin-top: 40px;"}
 [Submit on OpenReview](https://openreview.net/group?id=TAIH/2026/Symposium){.btn .btn-success .btn-lg role="button" target="_blank"}
