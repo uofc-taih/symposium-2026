@@ -4,7 +4,7 @@
     "href": "index.html#about-the-symposium",
     "title": "TAIH Symposium 2026",
     "section": "About the Symposium",
-    "text": "About the Symposium\nMachine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases. We invite you to share your research, see the call for papers for more information."
+    "text": "About the Symposium\nMachine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases."
   },
   {
     "objectID": "index.html#confirmed-speakers",
@@ -60,7 +60,7 @@
     "href": "cfp.html#important-dates",
     "title": "Call for Papers",
     "section": "Important Dates",
-    "text": "Important Dates\n\nSubmission deadline: May 10, 2026 11:59 PM MDT\nAuthor notification: May 17, 2026, 11:59 PM MDT\nCamera-ready deadline: May 22, 2026, 11:59 PM MDT\nSymposium date: May 26, 2026, see schedule for details"
+    "text": "Important Dates\n\nSubmission deadline: May 10, 2026, 11:59 PM MDT (Submissions are now closed)\nAuthor notification: May 17, 2026, 11:59 PM MDT\nCamera-ready deadline: May 22, 2026, 11:59 PM MDT\nSymposium date: May 26, 2026, see schedule for details"
   },
   {
     "objectID": "cfp.html#topics-of-interest",
@@ -74,7 +74,7 @@
     "href": "cfp.html#submission-guidelines",
     "title": "Call for Papers",
     "section": "Submission Guidelines",
-    "text": "Submission Guidelines\nWe use a flexible, one-page format to make joining the conversation easy for all researchers.\n\nWhat to Submit\n\nLength: 1 page, plus references.\nFormat: Flexible. You may submit an extended abstract, preliminary results, or a summary of recently published or previously presented work.\nTemplate: Standard single-column or double-column academic format (e.g., IEEE, ACM, or standard LaTeX article). PDF format is required.\nReview Process: All submissions will be peer-reviewed in a double-blind process. Please ensure your submitted PDF does not contain author names or affiliations.\n\n\n\nPresentation Format\nUpon acceptance, authors will be invited to present their research at the symposium.\n\nWe will have lightning talks for each accepted works (5-15min, depending on the number of accepted submissions). Participants with accepted work are asked to prepare presentation slides to reflect the core concepts of the submitted abstract—authors are encouraged to include any additional details, figures, and updates from the abstract submission.\nTop Submissions: The top three authors based on the peer review will receive rewards, sponsored by the Graduate College.\n\n\nSubmit on OpenReview"
+    "text": "Submission Guidelines\nWe use a flexible, one-page format to make joining the conversation easy for all researchers.\n\nWhat to Submit\n\nLength: 1 page, plus references.\nFormat: Flexible. You may submit an extended abstract, preliminary results, or a summary of recently published or previously presented work.\nTemplate: Standard single-column or double-column academic format (e.g., IEEE, ACM, or standard LaTeX article). PDF format is required.\nReview Process: All submissions will be peer-reviewed in a double-blind process. Please ensure your submitted PDF does not contain author names or affiliations.\n\n\n\nPresentation Format\nUpon acceptance, authors will be invited to present their research at the symposium.\n\nWe will have lightning talks for each accepted works (5-15min, depending on the number of accepted submissions). Participants with accepted work are asked to prepare presentation slides to reflect the core concepts of the submitted abstract—authors are encouraged to include any additional details, figures, and updates from the abstract submission.\nTop Submissions: The top three authors based on the peer review will receive rewards, sponsored by the Graduate College.\n\n\nSubmissions Closed"
   },
   {
     "objectID": "schedule.html",

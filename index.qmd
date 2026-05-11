@@ -47,7 +47,7 @@ University of Calgary Main Campus
 
 
 ## About the Symposium
-Machine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases. We invite you to share your research, see the [call for papers](cfp.qmd) for more information.
+Machine learning and artificial intelligence are increasingly deployed in high-stakes domains. However, ensuring trustworthiness, transparency, and accountability remains a critical challenge. This symposium aims to advance research by exploring robust methodologies, interpreting model-driven decisions, and ensuring reliability in real-world use cases.
 
 ## Confirmed Speakers
 

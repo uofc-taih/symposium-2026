@@ -6,7 +6,7 @@ We invite submissions for the **TAIH Symposium 2026**. We welcome contributions 
 
 ## Important Dates
 
-* **Submission deadline:** May 10, 2026 11:59 PM MDT
+* <span style="color: #777">**Submission deadline:** May 10, 2026, 11:59 PM MDT</span> (Submissions are now closed)
 * **Author notification:** May 17, 2026, 11:59 PM MDT
 * **Camera-ready deadline:** May 22, 2026, 11:59 PM MDT
 * **Symposium date:** May 26, 2026, see [schedule](schedule.qmd) for details
@@ -41,5 +41,5 @@ Upon acceptance, authors will be invited to present their research at the sympos
 * **Top Submissions:** The top three authors based on the peer review will receive rewards, sponsored by the Graduate College.
 
 ::: {.text-center style="margin-top: 40px;"}
-[Submit on OpenReview](https://openreview.net/group?id=TAIH/2026/Symposium){.btn .btn-success .btn-lg role="button" target="_blank"}
+[Submissions Closed](https://openreview.net/group?id=TAIH/2026/Symposium){.btn .btn-secondary .btn-lg role="button" aria-disabled="true"}
 :::

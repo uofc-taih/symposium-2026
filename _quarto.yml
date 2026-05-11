@@ -15,10 +15,6 @@ website:
               file: cfp.qmd
             - text: "Sponsors"
               file: sponsors.qmd
-        right:
-            - text: "Submit on OpenReview"
-              href: "https://openreview.net/group?id=TAIH/2026/Symposium"
-              target: _blank
 
 format:
     html:
