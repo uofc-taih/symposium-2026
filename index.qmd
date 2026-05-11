@@ -27,8 +27,23 @@ Welcome to the **TAIH Symposium 2026**, hosted by the **Transdisciplinary Artifi
 
 For more information about TAIH, visit [our website](https://wpsites.ucalgary.ca/transdisciplinary-ai-hub/){target="_blank"}.
 
-**Date:** May 26, 2026 \
-**Location:** University of Calgary, Alberta, Canada
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### <i class="bi bi-calendar3"></i> When
+**Tuesday, May 26, 2026**\
+9:00 AM – 5:00 PM
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### <i class="bi bi-geo-alt"></i> Where
+**Science Theatres (ST), Room 148**\
+University of Calgary Main Campus
+
+[<i class="bi bi-map"></i> View on Google Maps](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){.btn .btn-success .btn-sm target="_blank" role="button"}
+:::
+
+:::
 
 
 ## About the Symposium

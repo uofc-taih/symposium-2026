@@ -6,12 +6,13 @@ title: "Symposium Schedule"
 
 ::: {.g-col-12 .g-col-md-6}
 ### <i class="bi bi-calendar3"></i> When
-**Tuesday, May 26, 2026** 9:00 AM – 5:00 PM
+**Tuesday, May 26, 2026**\
+9:00 AM – 5:00 PM
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### <i class="bi bi-geo-alt"></i> Where
-**Science Theatres, Room 148 (ST 148)**\
+**Science Theatres (ST), Room 148**\
 University of Calgary Main Campus
 
 [<i class="bi bi-map"></i> View on Google Maps](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){.btn .btn-success .btn-sm target="_blank" role="button"}
@@ -27,7 +28,7 @@ Please note that the following program is subject to change as speakers and sess
 | Time | Session |
 |:--- |:--- |
 | 09:00 | **Welcome & Opening Remarks**\
-Dr. Samira Kahou (TAIH Director) and Dr. Jenny Godley (Head of Graduate College) |
+Prof. Samira Ebrahimi Kahou (TAIH) and Prof. Jenny Godley (Graduate College) |
 | 09:30 | **Invited Talk: Prof. Henry Leung**\
 30 min + 15 min Q&A |
 | 10:15 | **Invited Talk: Prof. Jessalyn Holodinsky**\
@@ -45,7 +46,7 @@ Provided for all attendees |
 | 16:30 | **Awards & Closing Remarks** |
 | 17:00 | **Symposium Ends** |
 
-: {tbl-colwidths="[20,80]"}
+: {tbl-colwidths="[12,88]"}
 
 <br>
 
