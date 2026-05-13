@@ -6,6 +6,8 @@ page-layout: custom
 ::: {.column-screen}
 ::: {.hero-banner}
 ::: {.hero-text}
+![](assets/taih-logo.svg){.hero-logo}
+
 # TAIH Symposium 2026
 ### First Annual TAIH Symposium at the University of Calgary
 
