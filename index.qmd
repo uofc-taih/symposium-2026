@@ -58,21 +58,6 @@ The symposium includes a number of talks by invited speakers. More details will 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](assets/Holodinsky.jpeg){.speaker-img width=150}
-
-**Jessalyn Holodinsky, PhD** \
-Assistant Professor  
-University of Calgary
-
-<details>
-<summary style="cursor: pointer; color: #18bc9c; font-weight: bold; margin-top: 10px;">View Bio</summary>
-<div class="text-start small" style="margin-top: 10px; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
-Dr. Jessalyn Holodinsky is an Assistant Professor of Data Science in the Department of Emergency Medicine at the University of Calgary, where she leads the Calgary Emergency Medicine Data Lab and is the Director of AI and Data Education through the Office of Faculty Development at the Cumming School of Medicine. Her work explores how AI can be used to predict patient flow, anticipate demand, and optimize how emergency departments operate. She is particularly interested in how AI systems behave in the real world: not just whether they work in theory, but whether they work in the right settings, for the right populations, and in ways that meaningfully improve how care is delivered. At the core of her work is a simple belief: that better data, used well, saves lives.
-</div>
-</details>
-:::
-
-::: {.g-col-12 .g-col-md-4 .text-center}
 ![](assets/Leung.jpeg){.speaker-img width=150}
 
 **Henry Leung, PhD** \
@@ -88,9 +73,32 @@ Dr. Henry Leung is a Professor in the Department of Electrical and Software Engi
 :::
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
+![](assets/Holodinsky.jpeg){.speaker-img width=150}
+
+**Jessalyn Holodinsky, PhD** \
+Assistant Professor  
+University of Calgary
+
+<details>
+<summary style="cursor: pointer; color: #18bc9c; font-weight: bold; margin-top: 10px;">View Bio</summary>
+<div class="text-start small" style="margin-top: 10px; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
+Dr. Jessalyn Holodinsky is an Assistant Professor of Data Science in the Department of Emergency Medicine at the University of Calgary, where she leads the Calgary Emergency Medicine Data Lab and is the Director of AI and Data Education through the Office of Faculty Development at the Cumming School of Medicine. Her work explores how AI can be used to predict patient flow, anticipate demand, and optimize how emergency departments operate. She is particularly interested in how AI systems behave in the real world: not just whether they work in theory, but whether they work in the right settings, for the right populations, and in ways that meaningfully improve how care is delivered. At the core of her work is a simple belief: that better data, used well, saves lives.
+</div>
+</details>
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
 ![](assets/speaker-placeholder.svg){.speaker-img width=150}
 
-*coming soon*
+**Truman Seto** \
+Manager of Operations Planning, Distribution Automation and Protection and Controls at ENMAX
+
+<details>
+<summary style="cursor: pointer; color: #18bc9c; font-weight: bold; margin-top: 10px;">View Bio</summary>
+<div class="text-start small" style="margin-top: 10px; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
+Truman is the Manager of Operations Planning, Distribution Automation and Protection and Controls at ENMAX Power Corporation. Over the past 20 years at ENMAX, he has held roles spanning long-term transmission planning, transmission and distribution system operations planning, and reliability analytics. Moreover, he has led multiple teams to develop strategies to modernize Enmax's analytical infrastructure through advanced data and software solutions focused on grid concerns. Truman has a BSc in Electrical Engineering from the University of Calgary and is a Professional Engineer with APEGA, Alberta.
+</div>
+</details>
 :::
 
 :::

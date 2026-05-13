@@ -40,7 +40,7 @@ Topic will be announced shortly |
 Provided for all attendees |
 | 14:00 | **Presentations of accepted works**\
 5-15 min each, depending on number of accepted submissions |
-| 15:30 | **Invited Talk:** _announced shortly_\
+| 15:30 | **Truman Seto**: Power Grid Ontology, Forming Semantic Joins of Data\
 30 min + 15 min Q&A |
 | 16:15 | **Coffee Break** |
 | 16:30 | **Awards & Closing Remarks** |
