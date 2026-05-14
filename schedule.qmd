@@ -29,19 +29,20 @@ Please note that the following program is subject to change as speakers and sess
 |:--- |:--- |
 | 09:00 | **Welcome & Opening Remarks (ST 148)**\
 Prof. Samira Ebrahimi Kahou (TAIH) and Prof. Jenny Godley (Graduate College) |
-| 09:30 | **Invited Talk: Prof. Henry Leung**\
+| 09:30 | **Invited Talk: Prof. Henry Leung, University of Calgary**\
 30 min + 15 min Q&A |
 | 10:15 | **Coffee Break** |
-| 10:30 | **Poster Presentations (ENG 207)** |
-| 11:30 | **Invited Talk: Prof. Jessalyn Holodinsky**\
+| 10:30 | **Poster Presentations of Accepted Works (ENG 207)**\
+Selected submissions are presented as posters |
+| 11:30 | **Invited Talk: Prof. Jessalyn Holodinsky, University of Calgary**\
 30 min + 15 min Q&A |
 | 12:15 | **Lunch & Networking**\
 Provided for all attendees |
-| 13:30 | **Presentations of accepted works**\
-10min per presenter |
+| 13:30 | **Presentations of Accepted Works (ST 148)**\
+Selected submissions are presented in slide form, 10min per presenter |
 | 15:15 | **Coffee Break** |
-| 15:30 | **Truman Seto**: Power Grid Ontology, Forming Semantic Joins of Data\
-30 min + 15 min Q&A |
+| 15:30 | **Invited Talk: Truman Seto, ENMAX**\
+Power Grid Ontology, Forming Semantic Joins of Data
 | 16:15 | **Closing Remarks**
 
 : {tbl-colwidths="[12,88]"}
