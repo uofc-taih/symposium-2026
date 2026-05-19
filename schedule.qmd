@@ -30,10 +30,10 @@ Please note that the following program is subject to change as speakers and sess
 | 09:00 | **Welcome & Opening Remarks (ST 148)**<br>Prof. Samira Ebrahimi Kahou (TAIH) and Prof. Jenny Godley (Graduate College) |
 | 09:30 | **Invited Talk: Prof. Henry Leung, University of Calgary**<br>30 min + 15 min Q&A |
 | 10:15 | **Coffee Break** |
-| 10:30 | **Poster Presentations of Accepted Works (ENG 024)**<br>Selected submissions are presented as posters |
+| 10:30 | **Poster Presentations of Accepted Works (ENG 207)**<br>Selected submissions are presented as posters.<br>*(See full list of posters below)* |
 | 11:30 | **Invited Talk: Prof. Jessalyn Holodinsky, University of Calgary**<br>30 min + 15 min Q&A |
 | 12:15 | **Lunch & Networking**<br>Provided for all attendees |
-| 13:30 | **Presentations of Accepted Works (ST 148)**<br>Selected submissions are presented in slide form, see full presentation order below |
+| 13:30 | **Presentations of Accepted Works (ST 148)**<br>Selected submissions are presented in slide form, 10min per presenter.<br>*(See full presentation order below)* |
 | 15:15 | **Coffee Break** |
 | 15:30 | **Invited Talk: Truman Seto, ENMAX**<br>Power Grid Ontology, Forming Semantic Joins of Data |
 | 16:15 | **Closing Remarks** |
@@ -43,7 +43,23 @@ Please note that the following program is subject to change as speakers and sess
 <br>
 
 <details>
-<summary style="cursor: pointer; color: #d6001c; font-weight: bold; font-size: 1.1rem; margin-bottom: 10px;">Click here to view the order of accepted oral presentations </summary>
+<summary style="cursor: pointer; color: #d6001c; font-weight: bold; font-size: 1.1rem; margin-bottom: 10px;">Click here to view the 10:30 poster presentation topics</summary>
+<div style="padding: 15px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #dee2e6; margin-bottom: 20px;">
+<ul style="margin-bottom: 0; padding-left: 20px;">
+  <li style="margin-bottom: 8px;">From Tool Use to Interaction Design: Reframing Learner Agency in AI-Mediated Systems</li>
+  <li style="margin-bottom: 8px;">Biometric Assistive Technologies: Case Study of American Sign Language</li>
+  <li style="margin-bottom: 8px;">PoliVer: Formal Verification and LLM-Assisted Repair for XACML Policies in Smart Buildings</li>
+  <li style="margin-bottom: 8px;">Co-Creating Responsible AI Writing Practices in Canadian Workplaces: A Transdisciplinary Research Agenda</li>
+  <li style="margin-bottom: 8px;">I wanna sound human: Examining a casual speech phenomenon that large language models fail to recognize</li>
+  <li style="margin-bottom: 8px;">Lost in Translation, Found in Narrative: The SPACE Framework for AI-Mediated Multilingual Pediatric Communication</li>
+  <li style="margin-bottom: 8px;">AI-Enabled Knowledge Graphs for Holistic Uncertainty-Aware Decision-Making in Transdisciplinary Socio-Technical Systems</li>
+  <li>Designing Safer Protein Therapeutics by Modelling Immune Recognition</li>
+</ul>
+</div>
+</details>
+
+<details>
+<summary style="cursor: pointer; color: #d6001c; font-weight: bold; font-size: 1.1rem; margin-bottom: 10px;">Click here to view the order of the 13:30 oral presentations</summary>
 <div style="padding: 15px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #dee2e6;">
 <ol style="margin-bottom: 0; padding-left: 20px;">
   <li style="margin-bottom: 8px;">REBOOT: From Failure to Recovery – A Dataset and Benchmark for Bi-manual Precision Assembly</li>
