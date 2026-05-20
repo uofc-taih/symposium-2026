@@ -25,20 +25,20 @@ University of Calgary Main Campus
 Please note that the following program is subject to change as speakers and sessions are finalized.
 :::
 
-| Time | Session |
-|:--- |:--- |
-| 09:00 | **Welcome & Opening Remarks (ST 148)**<br>Prof. Samira Ebrahimi Kahou (TAIH) and Prof. Jenny Godley (Graduate College) |
-| 09:30 | **Invited Talk: Prof. Henry Leung, University of Calgary**<br>30 min + 15 min Q&A |
-| 10:15 | **Coffee Break** |
-| 10:30 | **Poster Presentations of Accepted Works (ENG 024)**<br>Selected submissions are presented as posters.<br>*(See full list of posters below)* |
-| 11:30 | **Invited Talk: Prof. Jessalyn Holodinsky, University of Calgary (ST 148)**<br>30 min + 15 min Q&A |
-| 12:15 | **Lunch & Networking**<br>Provided for all attendees |
-| 13:30 | **Presentations of Accepted Works (ST 148)**<br>Selected submissions are presented in slide form, 10min per presenter.<br>*(See full presentation order below)* |
-| 15:15 | **Coffee Break** |
-| 15:30 | **Invited Talk: Truman Seto, ENMAX**<br>Power Grid Ontology, Forming Semantic Joins of Data |
-| 16:15 | **Closing Remarks** |
+| Time | Session | Room |
+|:--- |:--- |:--- |
+| 09:00 | **Welcome & Opening Remarks**<br>Prof. Samira Ebrahimi Kahou (TAIH) and Prof. Jenny Godley (Graduate College) | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 09:30 | **Invited Talk: Prof. Henry Leung, University of Calgary**<br>30 min + 15 min Q&A | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 10:15 | **Coffee Break** | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 10:30 | **Poster Presentations of Accepted Works**<br>Selected submissions are presented as posters.<br>*(See full list of posters below)* | [ENG 024](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 11:30 | **Invited Talk: Prof. Jessalyn Holodinsky, University of Calgary**<br>30 min + 15 min Q&A | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 12:15 | **Lunch & Networking**<br>Provided for all attendees | [ENG Lounge](https://maps.app.goo.gl/wSPZrGuHRZqcqUSX6){target="_blank"} |
+| 13:30 | **Presentations of Accepted Works**<br>Selected submissions are presented in slide form, 10min per presenter.<br>*(See full presentation order below)* | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 15:15 | **Coffee Break** | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 15:30 | **Invited Talk: Truman Seto, ENMAX**<br>Power Grid Ontology, Forming Semantic Joins of Data | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
+| 16:15 | **Closing Remarks** | [ST 148](https://maps.app.goo.gl/bQ5GkYp13CwyyoGb6){target="_blank"} |
 
-: {tbl-colwidths="[12,88]"}
+: {tbl-colwidths="[10,75,15]"}
 
 <br>
 
