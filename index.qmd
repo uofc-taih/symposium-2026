@@ -90,7 +90,7 @@ Truman is the Manager of Operations Planning, Distribution Automation and Protec
 ![](assets/speaker-placeholder.svg){.speaker-img width=150}
 
 **Isaac Opher Ullah** \
-Enerva
+Software Lead at Enerva
 :::
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
